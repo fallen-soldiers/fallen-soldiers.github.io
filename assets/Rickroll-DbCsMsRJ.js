@@ -1,0 +1,1 @@
+import{_ as t,u as e,c as o,o as c}from"./index-D-_8E3q6.js";const s={data(){return{store:e()}},mounted(){window.location.href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"}},n={class:"flex justify-content-center align-items-center"};function a(r,_,d,i,u,f){return c(),o("div",n)}const p=t(s,[["render",a],["__scopeId","data-v-60488baf"]]);export{p as default};
